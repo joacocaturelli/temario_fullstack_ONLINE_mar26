@@ -152,12 +152,36 @@
 
 <summary><strong>🚀 Sprint 8 · Controladores, Servicios, CRUD</strong></summary>
 
-
-- Controladores, Servicios y CRUD
+### [Controladores, Servicios y CRUD](./05_Backend/sprint_8)
 
 - [📄 Ver Manual Controllers, Services, CRUD](https://drive.google.com/file/d/1lOP3cuvsPuumyiWKbCuJoITgLylLxbsB/view)
 - [📄 Ver Cheatsheet Controllers, Services, CRUD](https://drive.google.com/file/d/1bm_WYTIMCzoAVedZ1ApZZXSIIF0sCSvs/view)
 
 </details>
 
+<details>
+
+<summary><strong>🚀 Sprint 9 · SQL</strong></summary>
+
+
+### [SQL](./05_Backend/sprint_9)
+
+- [📄 Ver Manual SQL](https://drive.google.com/file/u/0/d/11q8pWMyBn1erkT17_gw-Kbye4nQvpNJM/view?usp=sharing&pli=1)
+- [📄 Ver Cheatsheet SQL](https://drive.google.com/file/d/1nEt25zIr3GJZ5nKEed1mSvynronxZy-M/view)
+- [📄 Ver Cheatsheet Prisma](https://drive.google.com/file/d/1EMxUzbfdaVFcshHjAbg3JFTNIM3ExObS/view)
+
+</details>
+
+<details>
+
+<summary><strong>🚀 Sprint 10 · Middlewares y autenticación</strong></summary>
+
+### [Middlewares y autenticación](./05_Backend/sprint_10)
+
+- [📄 Ver Manual Middlewares](https://drive.google.com/file/d/1NDimPiV_S_G1Yc0bpsIPpmOh1pJGWGyf/view)
+- [📄 Ver Cheatsheet Middlewares](https://drive.google.com/file/d/1I5FiNzX8BmVOeEj2EA97lpS_sDkzjy9u/view)
+- [📄 Ver Manual JWT + BCRYPT](https://drive.google.com/file/d/1qsZcxLp4fvcFYNoaAGVDiXgTH9tsKVgw/view)
+- [📄 Ver Cheatsheet JWT + BCRYPT](https://drive.google.com/file/d/1N5pKU8GPc7TEcEIDS0-H-XXapOtB-DAQ/view)
+
+</details>
 ---
